@@ -15,5 +15,4 @@ A **README.md** file is the first thing people see when they visit your GitHub r
 
 ### ✅ Method 2: Creating a README Locally  
 1. Open your terminal or command prompt.  
-2. Navigate to your project folder:
-
+2. Navigate to your project folder
